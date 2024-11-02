@@ -1,4 +1,4 @@
-// file can be deleted, but was used to seed database - went to http://localhost:3000/seed - received successful message and now do not need file
+// file can be deleted, but was used to seed database - went to http://localhost:3000/seed - received successful message and now do not need file - was in app/seed/route.ts location
 
 // import bcrypt from 'bcrypt';
 // import { db } from '@vercel/postgres';
